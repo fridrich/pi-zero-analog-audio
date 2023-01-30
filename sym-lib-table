@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SJ2-3593D-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/library/SJ2-3593D-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ1-3555NG-BE")(type "KiCad")(uri "${KIPRJMOD}/library/SJ1-3555NG-BE.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ1-3525N")(type "KiCad")(uri "${KIPRJMOD}/library/SJ1-3525N.kicad_sym")(options "")(descr ""))
+)

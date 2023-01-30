@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
+          "45_degree_only": false,
           "min_clearance": 0.0
         }
       },
@@ -344,7 +344,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RaspberryPi-uHAT.kicad_pro",
+    "filename": "pi-zero-analog-audio.kicad_pro",
     "version": 1
   },
   "net_settings": {
