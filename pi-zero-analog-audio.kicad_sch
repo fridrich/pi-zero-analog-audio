@@ -2671,7 +2671,7 @@
     (uuid ece134dc-481d-4acc-afc4-a752a7a1b75d)
     (property "Reference" "U1" (id 0) (at 68.58 24.2402 0))
     (property "Value" "LP5907MFX-3.3" (id 1) (at 68.58 26.7771 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (id 2) (at 68.58 24.13 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (id 2) (at 68.58 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5907.pdf" (id 3) (at 68.58 20.32 0)
@@ -2843,7 +2843,7 @@
       (reference "R10") (unit 1) (value "140k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/ece134dc-481d-4acc-afc4-a752a7a1b75d"
-      (reference "U1") (unit 1) (value "LP5907MFX-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+      (reference "U1") (unit 1) (value "LP5907MFX-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
     )
     (path "/0d4d57aa-e3d3-44e9-8952-39267bfe2073"
       (reference "U2") (unit 1) (value "74LVC2G34") (footprint "Package_TO_SOT_SMD:SOT-23-6_Handsoldering")
