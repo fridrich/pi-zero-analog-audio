@@ -1,5 +1,8 @@
 (sym_lib_table
+  (version 7)
   (lib (name "SJ2-3593D-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/library/SJ2-3593D-SMT-TR.kicad_sym")(options "")(descr ""))
   (lib (name "SJ1-3555NG-BE")(type "KiCad")(uri "${KIPRJMOD}/library/SJ1-3555NG-BE.kicad_sym")(options "")(descr ""))
   (lib (name "SJ1-3525N")(type "KiCad")(uri "${KIPRJMOD}/library/SJ1-3525N.kicad_sym")(options "")(descr ""))
+  (lib (name "NC7WZ16P6X")(type "KiCad")(uri "${KIPRJMOD}/library/NC7WZ16P6X.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7115-25SEG-7")(type "KiCad")(uri "${KIPRJMOD}/library/AP7115-25SEG-7.kicad_sym")(options "")(descr ""))
 )
