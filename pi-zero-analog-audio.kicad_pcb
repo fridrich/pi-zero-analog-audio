@@ -2647,6 +2647,9 @@
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp ccd65f21-b02e-4d31-b8df-11f6ca2d4d24))
   (gr_line (start 162 70) (end 103 70)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp fca60233-ea1e-489e-a685-c8fb6788f150))
+  (gr_text "config.txt:\n  dtoverlay=audremap\n  audio_pwm_mode=2" (at 121.412 81.661) (layer "F.SilkS") (tstamp d4587dcf-2ad4-41a0-9e00-9153ccce5997)
+    (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left bottom))
+  )
 
   (segment (start 114.538 82.534) (end 116.602 82.534) (width 0.4) (layer "F.Cu") (net 1) (tstamp 075c5be9-0e0e-41ab-8575-ef7043266bdc))
   (segment (start 111.506 82.677) (end 111.6665 82.5165) (width 0.508) (layer "F.Cu") (net 1) (tstamp 0a334a29-5b0d-4820-bf8d-9938eb5a9e4b))
